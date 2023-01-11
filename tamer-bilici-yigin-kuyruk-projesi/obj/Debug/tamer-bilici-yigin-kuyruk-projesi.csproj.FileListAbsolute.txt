@@ -1,0 +1,9 @@
+c:\users\tamer\documents\visual studio 2013\Projects\tamer-bilici-yigin-kuyruk-projesi\tamer-bilici-yigin-kuyruk-projesi\bin\Debug\tamer-bilici-yigin-kuyruk-projesi.exe.config
+c:\users\tamer\documents\visual studio 2013\Projects\tamer-bilici-yigin-kuyruk-projesi\tamer-bilici-yigin-kuyruk-projesi\bin\Debug\tamer-bilici-yigin-kuyruk-projesi.exe
+c:\users\tamer\documents\visual studio 2013\Projects\tamer-bilici-yigin-kuyruk-projesi\tamer-bilici-yigin-kuyruk-projesi\bin\Debug\tamer-bilici-yigin-kuyruk-projesi.pdb
+c:\users\tamer\documents\visual studio 2013\Projects\tamer-bilici-yigin-kuyruk-projesi\tamer-bilici-yigin-kuyruk-projesi\obj\Debug\tamer-bilici-yigin-kuyruk-projesi.csprojResolveAssemblyReference.cache
+c:\users\tamer\documents\visual studio 2013\Projects\tamer-bilici-yigin-kuyruk-projesi\tamer-bilici-yigin-kuyruk-projesi\obj\Debug\tamer_bilici_yigin_kuyruk_projesi.Form1.resources
+c:\users\tamer\documents\visual studio 2013\Projects\tamer-bilici-yigin-kuyruk-projesi\tamer-bilici-yigin-kuyruk-projesi\obj\Debug\tamer_bilici_yigin_kuyruk_projesi.Properties.Resources.resources
+c:\users\tamer\documents\visual studio 2013\Projects\tamer-bilici-yigin-kuyruk-projesi\tamer-bilici-yigin-kuyruk-projesi\obj\Debug\tamer-bilici-yigin-kuyruk-projesi.csproj.GenerateResource.Cache
+c:\users\tamer\documents\visual studio 2013\Projects\tamer-bilici-yigin-kuyruk-projesi\tamer-bilici-yigin-kuyruk-projesi\obj\Debug\tamer-bilici-yigin-kuyruk-projesi.exe
+c:\users\tamer\documents\visual studio 2013\Projects\tamer-bilici-yigin-kuyruk-projesi\tamer-bilici-yigin-kuyruk-projesi\obj\Debug\tamer-bilici-yigin-kuyruk-projesi.pdb
